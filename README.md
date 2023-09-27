@@ -23,8 +23,8 @@
 
 <div>
   <a href="https://github.com/Fernando-cfs/Fernando-cfs">
-  <p><img height="150em" align="left" src="https://github-readme-stats.vercel.app/api?username=Fernando-cfs&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /></p>  
-  <p><img height="150em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fernando-cfs&show_icons=true&locale=en&layout=compact&langs_count=16&theme=radical" alt="Fernando-cfs" /></p>
+  <p><img height="165em" align="left" src="https://github-readme-stats.vercel.app/api?username=Fernando-cfs&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /></p>  
+  <p><img height="165em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fernando-cfs&show_icons=true&locale=en&layout=compact&langs_count=16&theme=radical" alt="Fernando-cfs" /></p>
 </div>
 
 
